@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="bannerVloriumDelivery.png" alt="Valorium Delivery — Full Stack Engineering Showcase" width="100%">
+</p>
+
 <div align="center">
 
 # Valorium Delivery
